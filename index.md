@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content tip">
+<div class="index-content tips">
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Tips</span></a></li>
