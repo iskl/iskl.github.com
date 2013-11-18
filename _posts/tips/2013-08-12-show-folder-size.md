@@ -2,6 +2,7 @@
 layout: post
 title: Shell下显示文件夹总大小
 category: tip
+description: du -sh folder_name
 ---
 
     du -sh folder_name

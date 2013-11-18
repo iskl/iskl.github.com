@@ -2,6 +2,7 @@
 layout: post
 title: Ruby on Rails demo
 category: tip
+description: 长时间显示"run bundle install"，可能是下载gem时撞墙所致，修改source为http://ruby.taobao.org
 ---
 
     rails new demo
