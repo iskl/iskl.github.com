@@ -2,7 +2,7 @@
 layout: post
 title: 在LXDE Ubuntu中使用xrdp
 category: tip
-description: 
+description: echo lxsession -s Lubuntu -e LXDE > ~/.xsession
 ---
 
 默认安装的xrdp打开的是Gnome的session，指定使用LXDE的办法是
