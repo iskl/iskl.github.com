@@ -2,7 +2,7 @@
 layout: post
 title: 编译安装fish-shell
 category: tip
-description: https://github.com/fish-shell/
+description: https://github.com/fish-shell/fish-shell
 ---
 
     git clone https://github.com/fish-shell/fish-shell.git
