@@ -7,6 +7,7 @@ description: https://github.com/fish-shell/fish-shell
 
     git clone https://github.com/fish-shell/fish-shell.git
     cd fish-shell
+    sudo apt-get install build-essential
     sudo apt-get install autoconf
     sudo apt-get install libncurses5-dev libncursesw5-dev
     autoconf
