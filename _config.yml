@@ -1,11 +1,48 @@
-auto: true
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: kramdown
 
-markdown: rdiscount
-pygments: true
-paginate: 8
-permalink: /:title
+kramdown:
+  input: GFM
 
-title: Input/Output
-url: http://io.kailai.me
-feed: /atom.xml
-author_info: <a href="http://kailai.me/">Kailai.me</a>
+# 作者信息
+author: 
+  name: 邵开来
+  email: shao@kailai.me
+  link: http://kailai.me
+  weibo: http://weibo.com/iskl
+  github: http://github.com/iskl
+
+# 站点信息
+title: Kailai.me 
+description: 开来的主页
+url: http://kailai.me
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/img/avatar160.png
+favicon: /public/img/favicon.ico
+
+# google analytics 设置
+# ga:
+#   id: 
+#   url: 
+
+# disqus 设置
+disqus:
+  shortname: kailai
+
+# 主题设置，自动激活某个标签
+active: 技巧
+
+# 首页除了最新文章外显示分类
+cates: 
+  - MacOSX
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+  content: 目录
