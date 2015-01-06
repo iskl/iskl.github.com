@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 解决 Android SDK Manager 无法更新问题
+title:  Android SDK Manager 镜像配置
 category: 技巧
 tags: [Android, 代理]
 description: 为Android SDK Manager配置代理
