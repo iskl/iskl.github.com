@@ -30,7 +30,7 @@ favicon: /public/img/favicon.ico
 
 # disqus 设置
 disqus:
-  shortname: kailai
+  shortname: iok
 
 # 主题设置，自动激活某个标签
 active: 技巧
