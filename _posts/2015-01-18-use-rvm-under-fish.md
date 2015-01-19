@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在 fish 下使用 rvm
+title: fish 下使用 rvm
 category: 技巧
 tags: [fish, rvm, shell]
 description: fish 中使用 rvm

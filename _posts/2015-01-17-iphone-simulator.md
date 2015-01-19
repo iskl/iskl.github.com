@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac 下直接打开 iPhone 模拟器
+title: Launchpad 中直接打开 iPhone 模拟器
 category: 技巧
 tags: [MacOSX, iPhone]
 description: Mac 下直接打开 iPhone 模拟器

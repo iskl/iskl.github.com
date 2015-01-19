@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 利用 Chrome 实现 Android 虚拟机
+title: 利用 Chrome 运行 Android 应用
 category: 技巧
 tags: [Chrome, Android]
 description: 在 Chrome 浏览器中运行 Android 应用
